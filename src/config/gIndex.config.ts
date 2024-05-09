@@ -65,7 +65,7 @@ const config: z.input<typeof Schema_Config> = {
     // rootFolder:
     //   "c760fc0eae9990d4accbc2134af21e45a378d412af2c78020070a9f9ac548b98fe61c4f6be953a8d7be6a035e6f7766c",
     rootFolder:
-      "b76c7c22083307a3aa99c28ab7cc69851d682f5a250d995679d4be5276cab16ab6c37f4d5b7ad1a9b93fb9bf768e752c",
+      "9f03ba2da9fafef0bd00e0fb13ce487f3d5f77a27486a0943f9704d521ae90a7a1137e65137291a27b26bd572e39792f",
 
     /**
      * If your rootfolder inside a shared drive, you NEED to set this to true
